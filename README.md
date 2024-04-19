@@ -1,4 +1,4 @@
-# Mini-Roteiro Prático sobre Testes End-to-End usando Cypress
+# .Mini-Roteiro Prático sobre Testes End-to-End usando Cypress
 
 O objetivo deste pequeno roteiro é ter um primeiro contato com testes do tipo end-to-end. Esses testes são chamados também de testes de front-end, testes de sistemas,  testes de interface Web ou testes de interface com o usuário.
 
